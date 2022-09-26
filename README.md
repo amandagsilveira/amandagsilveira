@@ -1,7 +1,7 @@
 ### Olá 👋 Eu sou a Amanda Silveira!
 
 - 👩‍💻 Sou estudante do Curso Análise e Desenvolvimento de Sistemas
-- 🐍 Atualmente estou estudando Python #100daysofpython
+- 🐍 Atualmente estou estudando Python 
 - 😄 Pronouns: ela/dela
 
 <div align="center">
