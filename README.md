@@ -1,7 +1,8 @@
 ### Olá 👋 Eu sou a Amanda Silveira!
 
-- 👩‍💻 Sou estudante do Curso Análise e Desenvolvimento de Sistemas
-- 🐍 Atualmente estou estudando Python 
+- 👩‍💻 Analista e Desenvolvedora de Sistemas
+- 🧬💻 Atuo na área de Bioinformática 
+- 📊 Estudante de Tecnologia em Ciência de Dados
 - 😄 Pronouns: ela/dela
 
 <div align="center">
